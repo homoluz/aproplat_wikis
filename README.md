@@ -1,6 +1,7 @@
 ### Aproplat_wikis
 
 #### Onboarding Wikis
+- [How To Start And End Daily](https://github.com/aproplat/aproplat_wikis/wiki/How-to-Start-Daily)
 
 - [Start Here To Find Your Way To Aproplat](https://github.com/aproplat/aproplat_wikis/wiki/Start-Here-on-Aproplat)
 
