@@ -10,6 +10,5 @@
 
 ### FIGMA DESIGN
 
-- [TABLET VIEW](https://www.figma.com/file/YaUMOlJ25g9St1whKNWFRr/Aproplat-tablet-view)
-- [MOBILE VIEW](https://www.figma.com/file/NWiTCjY9w9oFN4c1knHlPF/Aproplat-Mobile-View)
-- [DESKTOP VIEW](https://www.figma.com/file/72IeBu4mGE4EuZ1kJYsjn3/Aproplat-Homepage-Design)
+- [Responsive UI](https://www.figma.com/file/GvK6FdxBYWXEgYkytWRjV1/Aproplat-Figma-Prototype?t=GGaD0VNpZ6pvcbBc-1)
+
